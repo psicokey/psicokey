@@ -1,12 +1,20 @@
-![https://github.com/psicokey](./banner_key.png)
-
 # 👋 ¡Hola! Soy Keyberth
+
+![https://github.com/psicokey] (./psicokey_github_profile.png)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología en proceso de formación, actualmente aprendiendo desarrollo web. 🚀 Además, tengo **10 años de experiencia como licenciado en psicología**, lo que me ha permitido desarrollar habilidades únicas en comunicación, liderazgo y trabajo en equipo.
 
 ## 🛠 Tecnologías que uso
 - **Lenguaje principal:** JavaScript
-- Y siempre estoy explorando nuevas herramientas y tecnologías.
+•	HTML / CSS – Avanzado
+•	JavaScript – Intermedio
+•	React – Intermedio
+•	Node.js / Express – Intermedio
+•	Next.js – Intermedio
+•	Tailwind CSS – Intermedio
+•	Git / GitHub – Intermedio
+•	MySQL – Intermedio
+
 
 ## 🌱 Actualmente aprendiendo
 Estoy profundizando mis conocimientos en desarrollo web y construyendo proyectos para mejorar y aprender más cada día.
