@@ -6,14 +6,14 @@
 
 ## 🛠 Tecnologías que uso
 - **Lenguaje principal:** JavaScript
-•	HTML / CSS – Avanzado
-•	JavaScript – Intermedio
-•	React – Intermedio
-•	Node.js / Express – Intermedio
-•	Next.js – Intermedio
-•	Tailwind CSS – Intermedio
-•	Git / GitHub – Intermedio
-•	MySQL – Intermedio
+- **HTML / CSS – Avanzado
+- **JavaScript – Intermedio
+- **React – Intermedio
+- **Node.js / Express – Intermedio
+- **Next.js – Intermedio
+- **Tailwind CSS – Intermedio
+- **Git / GitHub – Intermedio
+- **MySQL – Intermedio
 
 
 ## 🌱 Actualmente aprendiendo
