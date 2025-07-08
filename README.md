@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Keyberth
 
-![https://github.com/psicokey] (./psicokey_github_profile.png)
+![https://github.com/psicokey](./psicokey_github_profile.png)
 
 ¡Bienvenido a mi perfil de GitHub! Soy un apasionado de la tecnología en proceso de formación, actualmente aprendiendo desarrollo web. 🚀 Además, tengo **10 años de experiencia como licenciado en psicología**, lo que me ha permitido desarrollar habilidades únicas en comunicación, liderazgo y trabajo en equipo.
 
