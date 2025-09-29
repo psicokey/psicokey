@@ -8,10 +8,15 @@
 - **Lenguaje principal:** JavaScript
 - HTML / CSS – Avanzado
 - JavaScript – Intermedio
+- Tailwind CSS – Intermedio
 - React – Intermedio
 - Node.js / Express – Intermedio
 - Next.js – Intermedio
-- Tailwind CSS – Intermedio
+- NestJS - Básico
+- Laravel - Básico
+- Wordpress -Básico
+- Shopify - Básico
+
 - Git / GitHub – Intermedio
 - MySQL – Intermedio
 
@@ -30,6 +35,7 @@ Aunque aún están en proceso, ¡pronto compartiré algunos proyectos interesant
 ## 📫 ¿Quieres contactarme?
 - **Correo:** [devkeyberth@gmail.com](mailto:devkeyberth@gmail.com)
 - **LinkedIn:** [Keyberth Márquez](https://www.linkedin.com/in/keyberth-marquez-51031811a/)
+- **Portafolio:** [Keyberth Portafolio](https://portfolio-omega-rose-47.vercel.app)
 
 ## 🎸 Un poco sobre mí
 Cuando no estoy codificando, disfruto:
