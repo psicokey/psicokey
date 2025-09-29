@@ -13,8 +13,12 @@ Esta trayectoria me equipó con **habilidades únicas**: pensamiento crítico, *
 ---
 
 ## 🛠 Mi Stack de Desarrollo
+### 📊 Mis Lenguajes Más Usados (Generados por GitHub)
 
-Me especializo en el ecosistema **JavaScript** y estoy en constante evolución, buscando siempre las mejores herramientas para el desarrollo **Full Stack**.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psicokey&layout=compact&theme=vision-friendly)](https://github.com/psicokey/github-readme-stats)
+
+### Tecnologías Clave (Complemento)
+Aunque la tarjeta muestra mis lenguajes principales, aquí destaco las herramientas que domino:
 
 | Categoría | Tecnologías (Nivel) |
 | :--- | :--- |
